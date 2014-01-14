@@ -17,4 +17,47 @@
  -->
 
 <resource-redirections>
+    <!-- drawable -->
+    <item name="drawable/ic_qs_lte_on">@drawable/com_android_systemui_ic_qs_lte_on</item>
+    <item name="drawable/ic_qs_navbar_hide_off">@drawable/com_android_systemui_ic_qs_navbar_hide_off</item>
+    <item name="drawable/ic_qs_navbar_hide_on">@drawable/com_android_systemui_ic_qs_navbar_hide_on</item>
+    <item name="drawable/ic_qs_nfc_off">@drawable/com_android_systemui_ic_qs_nfc_off</item>
+    <item name="drawable/ic_qs_nfc_on">@drawable/com_android_systemui_ic_qs_nfc_on</item>
+    <item name="drawable/ic_qs_playing">@drawable/com_android_systemui_ic_qs_playing</item>
+    <item name="drawable/ic_qs_quickrecord">@drawable/com_android_systemui_ic_qs_quickrecord</item>
+    <item name="drawable/ic_qs_quiet_hours_off">@drawable/com_android_systemui_ic_qs_quiet_hours_off</item>
+    <item name="drawable/ic_qs_quiet_hours_on">@drawable/com_android_systemui_ic_qs_quiet_hours_on</item>
+    <item name="drawable/ic_qs_reboot">@drawable/com_android_systemui_ic_qs_reboot</item>
+    <item name="drawable/ic_qs_recording">@drawable/com_android_systemui_ic_qs_recording</item>
+    <item name="drawable/ic_qs_remote_display">@drawable/com_android_systemui_ic_qs_remote_display</item>
+    <item name="drawable/ic_qs_remote_display_connected">@drawable/com_android_systemui_ic_qs_remote_display_connected</item>
+    <item name="drawable/ic_qs_rotation_locked">@drawable/com_android_systemui_ic_qs_rotation_locked</item>
+    <item name="drawable/ic_qs_saved">@drawable/com_android_systemui_ic_qs_saved</item>
+    <item name="drawable/ic_qs_screenshot">@drawable/com_android_systemui_ic_qs_screenshot</item>
+    <item name="drawable/ic_qs_settings">@drawable/com_android_systemui_ic_qs_settings</item>
+    <item name="drawable/ic_qs_silence_off">@drawable/com_android_systemui_ic_qs_silence_off</item>
+    <item name="drawable/ic_qs_silence_on">@drawable/com_android_systemui_ic_qs_silence_on</item>
+    <item name="drawable/ic_qs_sleep">@drawable/com_android_systemui_ic_qs_sleep</item>
+    <item name="drawable/ic_qs_sound_off">@drawable/com_android_systemui_ic_qs_sound_off</item>
+    <item name="drawable/ic_qs_sound_on">@drawable/com_android_systemui_ic_qs_sound_on</item>
+    <item name="drawable/ic_qs_sound_silent">@drawable/com_android_systemui_ic_qs_sound_silent</item>
+    <item name="drawable/ic_qs_sound_sound">@drawable/com_android_systemui_ic_qs_sound_sound</item>
+    <item name="drawable/ic_qs_sound_vibrate">@drawable/com_android_systemui_ic_qs_sound_vibrate</item>
+    <item name="drawable/ic_qs_statusbar_off">@drawable/com_android_systemui_ic_qs_statusbar_off</item>
+    <item name="drawable/ic_qs_statusbar_on">@drawable/com_android_systemui_ic_qs_statusbar_on</item>
+    <item name="drawable/ic_qs_stayawake_off">@drawable/com_android_systemui_ic_qs_stayawake_off</item>
+    <item name="drawable/ic_qs_stayawake_on">@drawable/com_android_systemui_ic_qs_stayawake_on</item>
+    <item name="drawable/ic_qs_swaggersun">@drawable/com_android_systemui_ic_qs_swaggersun</item>
+    <item name="drawable/ic_qs_sync_off">@drawable/com_android_systemui_ic_qs_sync_off</item>
+    <item name="drawable/ic_qs_sync_on">@drawable/com_android_systemui_ic_qs_sync_on</item>
+    <item name="drawable/ic_qs_torch_off">@drawable/com_android_systemui_ic_qs_torch_off</item>
+    <item name="drawable/ic_qs_torch_on">@drawable/com_android_systemui_ic_qs_torch_on</item>
+    <item name="drawable/ic_qs_usb_device">@drawable/com_android_systemui_ic_qs_usb_device</item>
+    <item name="drawable/ic_qs_usb_tether_off">@drawable/com_android_systemui_ic_qs_usb_tether_off</item>
+    <item name="drawable/ic_qs_usb_tether_on">@drawable/com_android_systemui_ic_qs_usb_tether_on</item>
+    <item name="drawable/ic_qs_vibrate_off">@drawable/com_android_systemui_ic_qs_vibrate_off</item>
+    <item name="drawable/ic_qs_vibrate_on">@drawable/com_android_systemui_ic_qs_vibrate_on</item>
+    <item name="drawable/ic_qs_volume">@drawable/com_android_systemui_ic_qs_volume</item>
+    <item name="drawable/ic_qs_wifi_tether_off">@drawable/com_android_systemui_ic_qs_wifi_tether_off</item>
+    <item name="drawable/ic_qs_wifi_tether_on">@drawable/com_android_systemui_ic_qs_wifi_tether_on</item>
 </resource-redirections>

@@ -16,12 +16,14 @@
  # limitations under the License.
  -->
 
-<resources>
-    <!-- Dialer -->
-    <color name="com_android_dialer_dialpad_text_color">#404040</color>
-    <color name="com_android_dialer_background_digits_dialpad">#ffffff</color>
-    <color name="com_android_dialer_background_dialpad">#eeeeee</color>
-    <color name="com_android_dialer_dialpad_primary_text_color">#404040</color>
-    <color name="com_android_dialer_dialpad_secondary_text_color">#9e9e9e</color>
-</resources>
+<resource-redirections>
+<!-- color -->
+<item name="dialpad_text_color">@color/com_android_dialer_dialpad_text_color</item>
+<item name="background_digits_dialpad">@color/com_android_dialer_background_digits_dialpad</item>
+<item name="background_dialpad">@color/com_android_dialer_background_dialpad</item>
+<item name="dialpad_primary_text_color">@color/com_android_dialer_dialpad_primary_text_color</item>
+<item name="dialpad_secondary_text_color">@color/com_android_dialer_dialpad_secondary_text_color</item>
 
+<!-- drawable -->
+<item name="drawable/ic_dial_action_delete">@drawable/com_android_dialer_ic_dial_action_delete</item>
+</resource-redirections>

@@ -18,6 +18,8 @@
 -->
 
 <resource-redirections>
+    <item name="drawable/ab_transparent_dark_holo">@drawable/frameworks_res_ab_transparent_dark_holo</item>
+    <item name="drawable/ab_transparent_light_holo">@drawable/frameworks_res_ab_transparent_light_holo</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_dark</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_light">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_light</item>
     <item name="drawable/btn_check_off_disabled_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_holo_dark</item>

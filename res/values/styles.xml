@@ -19,4 +19,11 @@
 <resources>
    <!-- AOKP KitKat White Theme -->
     <style name="kitkat_white" parent="@android:style/Theme" />
+
+    <!-- frameworks_res -->
+    <style name="frameworks_res_Widget.Holo.Light.SeekBar" parent="android:style/Widget.Holo.SeekBar">
+        <item name="android:progressDrawable">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
+        <item name="android:indeterminateDrawable">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
+        <item name="android:thumb">@drawable/frameworks_res_scrubber_control_selector_holo_light</item>
+    </style>
 </resources>

@@ -18,7 +18,13 @@
 -->
 
 <resource-redirections>
+    <!-- xml drawable -->
     <item name="drawable/silent_mode_indicator">@drawable/frameworks_res_silent_mode_indicator</item>
+    <item name="drawable/scrubber_control_selector_holo">@drawable/frameworks_res_scrubber_control_selector_holo_dark</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/frameworks_res_scrubber_progress_horizontal_holo_dark</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
+
+    <!-- drawable -->
     <item name="drawable/ab_transparent_dark_holo">@drawable/frameworks_res_ab_transparent_dark_holo</item>
     <item name="drawable/ab_transparent_light_holo">@drawable/frameworks_res_ab_transparent_light_holo</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_dark</item>
@@ -91,4 +97,7 @@
     <item name="drawable/text_select_handle_left">@drawable/frameworks_res_text_select_handle_left</item>
     <item name="drawable/text_select_handle_middle">@drawable/frameworks_res_text_select_handle_middle</item>
     <item name="drawable/text_select_handle_right">@drawable/frameworks_res_text_select_handle_right</item>
+
+    <!-- style -->
+    <item name="style/Widget.Holo.Light.SeekBar">@style/frameworks_res_Widget.Holo.Light.SeekBar</item>
 </resource-redirections>

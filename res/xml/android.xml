@@ -18,6 +18,12 @@
 -->
 
 <resource-redirections>
+    <!-- color -->
+    <item name="color/default_dialog_text_holo_dark">@color/frameworks_res_default_dialog_text_holo_dark</item>
+    <item name="color/default_dialog_text_holo_light">@color/frameworks_res_default_dialog_text_holo_light</item>
+    <item name="color/default_dialog_divider_holo_dark">@color/frameworks_res_default_dialog_divider_holo_dark</item>
+    <item name="color/default_dialog_divider_holo_light">@color/frameworks_res_default_dialog_divider_holo_light</item>
+
     <!-- xml drawable -->
     <item name="drawable/ab_transparent_dark_holo">@drawable/frameworks_res_ab_transparent_dark_holo</item>
     <item name="drawable/ab_transparent_light_holo">@drawable/frameworks_res_ab_transparent_light_holo</item>

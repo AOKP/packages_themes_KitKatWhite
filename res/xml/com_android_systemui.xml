@@ -17,6 +17,11 @@
  -->
 
 <resource-redirections>
+    <!-- color -->
+    <item name="color/linear_color_bar_left_color">@color/com_android_systemui_linear_color_bar_left_color</item>
+    <item name="color/linear_color_bar_middle_color">@color/com_android_systemui_linear_color_bar_middle_color</item>
+    <item name="color/linear_color_bar_right_color">@color/com_android_systemui_linear_color_bar_right_color</item>
+
     <!-- drawable xml files -->
     <item name="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
 

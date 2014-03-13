@@ -23,7 +23,11 @@
 <item name="color/background_dialpad">@color/com_android_dialer_background_dialpad</item>
 <item name="color/dialpad_primary_text_color">@color/com_android_dialer_dialpad_primary_text_color</item>
 <item name="color/dialpad_secondary_text_color">@color/com_android_dialer_dialpad_secondary_text_color</item>
+<item name="color/dialpad_call_button_color">@color/com_android_dialer_dialpad_call_button_color</item>
 
 <!-- drawable -->
 <item name="drawable/ic_dial_action_delete">@drawable/com_android_dialer_ic_dial_action_delete</item>
+<item name="drawable/ic_dial_action_call">@drawable/com_android_dialer_ic_dial_action_call</item>
+<item name="drawable/ic_menu_history_lt">@drawable/com_android_dialer_ic_menu_history_dk</item>
+<item name="drawable/ic_menu_overflow_lt">@drawable/com_android_dialer_ic_menu_overflow_dk</item>
 </resource-redirections>

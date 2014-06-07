@@ -19,6 +19,9 @@
 
 <resources>
 
-    <string name="app_name">AOKP KitKat White</string>
+    <color name="default_dialog_text_holo_dark">#fff3f3f3</color>
+    <color name="default_dialog_text_holo_light">#ff000000</color>
+    <color name="default_dialog_divider_holo_dark">#fff3f3f3</color>
+    <color name="default_dialog_divider_holo_light">#ff000000</color>
 
 </resources>

@@ -1,3 +1,6 @@
-************************** AOKP KitKat White Theme **************************
-
-This is based on Esa Laukkanen <ele.linux@gmail.com> fantastic [template](https://github.com/elelinux/Theme-Template)
+*************************************************************
+********************* AOKP KITKAT WHITE *********************
+*************************************************************
+*      New version updated for the new theme engine.        *
+*                                                           *
+*************************************************************

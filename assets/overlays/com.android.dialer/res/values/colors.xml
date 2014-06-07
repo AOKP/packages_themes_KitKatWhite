@@ -19,6 +19,11 @@
 
 <resources>
 
-    <string name="app_name">AOKP KitKat White</string>
+    <color name="dialpad_text_color">#404040</color>
+    <color name="background_digits_dialpad">#ffffff</color>
+    <color name="background_dialpad">#eeeeee</color>
+    <color name="dialpad_primary_text_color">#404040</color>
+    <color name="dialpad_secondary_text_color">#9e9e9e</color>
+    <color name="dialpad_call_button_color">#eeeeee</color>
 
 </resources>
